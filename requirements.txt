@@ -1,9 +1,9 @@
 streamlit
 ultralytics>=8.3.217
-numpy>=1.24.0
-opencv-python-headless>=4.12.0.88
-torch>=2.0.0
-torchvision>=0.15.0
-Pillow>=10.0.0
-pandas>=2.0.0
+torch>=2.7.1
+torchvision>=0.22.1
+numpy>=1.26..4
+opencv-python-headless
+Pillow
+pandas
 psutil>=5.9.0
